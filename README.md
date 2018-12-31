@@ -3,4 +3,4 @@ This is a python project for reservation of tickets.
 
 In this project, I used :
 1. Classes
-2. Dat Files for data management
+2. Binary Files for data management
