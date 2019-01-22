@@ -1,4 +1,4 @@
-# Train-Reservation-System
+# Train-Ticket-Registration-System
 This is a python project for reservation of tickets. 
 
 In this project, I used :
